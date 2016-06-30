@@ -1,0 +1,58 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/03/2014 15:49:01 PM
+#Cmp ( order = Reference )
+| D1         DIODE       
+| D2         LED         
+| D3         DIODE       
+| IC1        4N25        
+| JP1        JUMPER      
+| JP2        JUMPER      
+| JP3        JUMPER      
+| JP4        JUMPER      
+| JP5        JUMPER      
+| K1         RELAY_SPST  
+| P1         CONN_6      
+| P2         CONN_2      
+| P3         CONN_2      
+| P4         CONN_2      
+| P5         CONN_6      
+| P6         CONN_2      
+| P7         CONN_2      
+| P8         CONN_2      
+| R1         1K2         
+| R2         R           
+| R3         470R        
+| RV1        1k 10turn POT
+| RV2        1K 10turn POT
+| T1         TRANSFO-AUDIO
+| T2         TRANSFO-AUDIO
+#End Cmp
+
+#Cmp ( order = Value )
+| DIODE        D1        
+| LED          D2        
+| DIODE        D3        
+| 4N25         IC1       
+| JUMPER       JP1       
+| JUMPER       JP2       
+| JUMPER       JP3       
+| JUMPER       JP4       
+| JUMPER       JP5       
+| RELAY_SPST   K1        
+| CONN_6       P1        
+| CONN_2       P2        
+| CONN_2       P3        
+| CONN_2       P4        
+| CONN_6       P5        
+| CONN_2       P6        
+| CONN_2       P7        
+| CONN_2       P8        
+| 470R         R3        
+| 1K2          R1        
+| R            R2        
+| 1k 10turn POT RV1       
+| 1K 10turn POT RV2       
+| TRANSFO-AUDIO T1        
+| TRANSFO-AUDIO T2        
+#End Cmp
+
+#End List
