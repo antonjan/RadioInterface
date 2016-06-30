@@ -1,4 +1,4 @@
-# RadioInterface
+# Radio Interface
 This project will hold the Radio interface PCB design. (mostel Radio Amteurs will use this)<br>
 This is a PCB that will allow a USB and Mic / Line-in and External speaker output of Laptop, Tablet, Mobile phone, and Computers to most Amateur radio transceivers.<br>
 1) PTT isolation and control vith USB RTS.<br>
